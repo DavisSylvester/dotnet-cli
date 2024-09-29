@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\davis\\dotnet-cli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4153BA-1E3F-40CC-95F6-8A41C08FC046}|dotnet-cli.csproj|c:\\projects\\davis\\dotnet-cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4153BA-1E3F-40CC-95F6-8A41C08FC046}|dotnet-cli.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4153BA-1E3F-40CC-95F6-8A41C08FC046}|dotnet-cli.csproj|c:\\projects\\davis\\dotnet-cli\\interfaces\\iauth0service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4153BA-1E3F-40CC-95F6-8A41C08FC046}|dotnet-cli.csproj|solutionrelative:interfaces\\iauth0service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4153BA-1E3F-40CC-95F6-8A41C08FC046}|dotnet-cli.csproj|c:\\projects\\davis\\dotnet-cli\\services\\auth0service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4153BA-1E3F-40CC-95F6-8A41C08FC046}|dotnet-cli.csproj|solutionrelative:services\\auth0service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuth0Service.cs",
+              "DocumentMoniker": "C:\\projects\\davis\\dotnet-cli\\Interfaces\\IAuth0Service.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAuth0Service.cs",
+              "ToolTip": "C:\\projects\\davis\\dotnet-cli\\Interfaces\\IAuth0Service.cs",
+              "RelativeToolTip": "Interfaces\\IAuth0Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:10:45.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auth0Service.cs",
+              "DocumentMoniker": "C:\\projects\\davis\\dotnet-cli\\Services\\Auth0Service.cs",
+              "RelativeDocumentMoniker": "Services\\Auth0Service.cs",
+              "ToolTip": "C:\\projects\\davis\\dotnet-cli\\Services\\Auth0Service.cs",
+              "RelativeToolTip": "Services\\Auth0Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:09:02.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\davis\\dotnet-cli\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\projects\\davis\\dotnet-cli\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:54:01.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
